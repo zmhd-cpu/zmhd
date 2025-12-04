@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXTINF:0 tvg-name="Zee Marathi HD" tvg-logo="https://en.wikipedia.org/wiki/File:Zee_Marathi_2025.svg",Zee Marathi HD
+#EXTINF:0 tvg-name="Zee Marathi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Zee_Marathi_Official_Logo.jpg",Zee Marathi HD
 http://87.255.35.150:18234/stream.mp4
 #EXTINF:0 tvg-name="TV9 Marathi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Tv9-marathi-logo.svg/revision/latest?cb=20221027161831",TV9 Marathi
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
@@ -16,6 +16,6 @@ https://see.lokshahi.live/live/index.m3u8
 https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
 #EXTINF:0 tvg-name="Saam TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Saam_TV.jpeg/revision/latest?cb=20191227100552",Saam TV
 https://cdn-3.pishow.tv/live/437/master.m3u8
-#EXTINF:0 tvg-name="CNBC TV 18" tvg-logo="https://en.wikipedia.org/wiki/File:CNBC_TV18_2025.svg",CNBC TV 18
+#EXTINF:0 tvg-name="CNBC TV 18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/CNBC_TV18.png",CNBC TV 18
 https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/CNBC_TV18_NW18_MOB-audio_98834_eng=98800-video=3724000.m3u8
 #EXT-X-ENDLIST
