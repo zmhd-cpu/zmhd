@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXTINF:0 tvg-logo="https://url-to-logo.com/beta.png",Zee Marathi HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/vv9ysD3.png",Zee Marathi HD
 http://87.255.35.150:18234/stream.mp4
 #EXT-X-ENDLIST
