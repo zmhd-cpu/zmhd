@@ -1,7 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXTINF:0 tvg-name="Zee Marathi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Zee_Marathi_Official_Logo.jpg",Zee Marathi HD
-http://87.255.35.150:18234/stream.mp4
 #EXTINF:0 tvg-name="TV9 Marathi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Tv9-marathi-logo.svg/revision/latest?cb=20221027161831",TV9 Marathi
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
 #EXTINF:0 tvg-name="ABP MAJHA" tvg-logo="https://static.vidgyor.com/player/account/abp/img/ABP-Majha.png",ABP MAJHA
