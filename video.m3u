@@ -16,6 +16,6 @@ https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
 https://cdn-3.pishow.tv/live/437/master.m3u8
 #EXTINF:0 tvg-name="CNBC TV 18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/CNBC_TV18.png",CNBC TV 18
 https://amg00866-amg00866c9-lg-in-4409.playouts.now.amagi.tv/playlist/amg00866-tv18broadcastlimitedfast-cnbctv18-lgin/playlist.m3u8
-#EXTINF:-0 tvg-name"Test", Test
+#EXTINF:0 tvg-name"Test",Test
 https://jiotvpllive.cdn.jio.com/bpk-tv/Hungama_BTS/output/index.mpd?__hdnea__=st=1766450850~exp=1766537250~acl=/*~hmac=da32c0a22698cd95bf377d9521425169662a06cad62888d31343b67bd232a66c&xxx=%7Ccookie=__hdnea__=st=1766450850~exp=1766537250~acl=/*~hmac=da32c0a22698cd95bf377d9521425169662a06cad62888d31343b67bd232a66c
 #EXT-X-ENDLIST
