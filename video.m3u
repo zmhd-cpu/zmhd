@@ -14,6 +14,8 @@ https://see.lokshahi.live/live/index.m3u8
 https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
 #EXTINF:0 tvg-name="Saam TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Saam_TV.jpeg/revision/latest?cb=20191227100552",Saam TV
 https://cdn-3.pishow.tv/live/437/master.m3u8
+#EXTINF:0 tvg-name="Jai Maharashtra" tvg-logo="",Jai Maharashtra
+https://cdn-3.pishow.tv/live/1465/master.m3u8
 #EXTINF:0 tvg-name="CNBC TV 18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/CNBC_TV18.png",CNBC TV 18
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cnbc-tv18/master.m3u8
 #EXT-X-ENDLIST
