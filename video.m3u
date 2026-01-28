@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXTINF:-1 tvg-name="TV9 group-title="Marathi News" Marathi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Tv9-marathi-logo.svg/revision/latest?cb=20221027161831",TV9 Marathi
+#EXTINF:-1 tvg-name="TV9 group-title="Marathi News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Tv9-marathi-logo.svg/revision/latest?cb=20221027161831",TV9 Marathi
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-name="ABP MAJHA" group-title="Marathi News" tvg-logo="https://static.vidgyor.com/player/account/abp/img/ABP-Majha.png",ABP MAJHA
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/majha-livetv/master_1280.m3u8
