@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+</head>
+<body>
+  <script>
+    const url = 'https://z5ak-cmaflive.zee5.com/cmaf/live/2105520/ZeeMarathiHDELE/index-connected.m3u8?hdntl=exp=1769999165~acl=%2f*~id=1d4c3955-fecc-44e9-abcf-4d210f7e022c~data=hdntl~hmac=f163689e8734c85659c18aa80b2cbf1540ce09ee5a414c2e2a823c788476383f'; // Replace with your OTT URL
+    fetch(url, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36'
+      }
+    })
+      .then(res => res.text())
+      .then(data => {
+        // Return the .m3u8 as a response
+        const blob = new Blob([data], { type: 'application/x-mpegURL' });
+        const url = URL.createObjectURL(blob);
+        const link = document.createElement('a');
+        link.href = url;
+        link.download = 'stream.m3u8';
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+      });
+  </script>
+</body>
+</html>
