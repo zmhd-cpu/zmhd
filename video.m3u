@@ -30,4 +30,6 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgt
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master_720.m3u8
 #EXTINF:-1 tvg-name="Zee Marathi HD" group-title="Marathi Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",Zee Marathi HD
 https://xfireflix.my.id/Op.m3u8/?id=383033&e=.m3u8
+#EXTINF:-1 tvg-name="Zee Marathi HD 2" group-title="Marathi Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",Zee Marathi HD 2
+https://xfireflix.my.id/Op.m3u8/?id=380816&e=.m3u8
 #EXT-X-ENDLIST
