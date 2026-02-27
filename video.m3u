@@ -29,9 +29,7 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgt
 #EXTINF:-1 tvg-name="ABP News" group-title="Hindi News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ABP_News_logo.svg/330px-ABP_News_logo.svg.png",ABP News
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master_720.m3u8
 #EXTINF:-1 tvg-name="Zee Marathi HD" group-title="Marathi Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",Zee Marathi HD
-https://xfireflix.my.id/Op.m3u8/?id=383033&e=.m3u8
+http://172.17.12.128:5000/stream?url=https://z5ak-cmaflive.zee5.com/cmaf/live/2105520/ZeeMarathiHDELE/index-connected.m3u8?hdntl=exp=1772281667~acl=%2f*~id=615301f3-9909-4782-a087-8f9eac139890~data=hdntl~hmac=f8c2e6a8b0fbcfed37ad54315795c1f745b268b9d5ddf507c31c7e0ad63485f6
 #EXTINF:-1 tvg-name="Zee Marathi HD 2" group-title="Marathi Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",Zee Marathi HD 2
 https://xfireflix.my.id/Op.m3u8/?id=380816&e=.m3u8
-#EXTINF:-1 tvg-name="Bollywood movies 24/7" group-title="Hindi Movies" tvg-logo="https://www.shutterstock.com/shutterstock/photos/418013848/display_1500/stock-vector--hours-icon-vector-418013848.jpg",Bollywood movies 24/7
-https://live20.bozztv.com/giatvplayout7/giatv-209612/index.m3u8
 #EXT-X-ENDLIST
