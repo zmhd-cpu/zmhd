@@ -29,7 +29,7 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgt
 #EXTINF:-1 tvg-name="ABP News" group-title="Hindi News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ABP_News_logo.svg/330px-ABP_News_logo.svg.png",ABP News
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master_720.m3u8
 #EXTINF:-1 tvg-name="Zee Marathi HD" group-title="Marathi Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",Zee Marathi HD
-http://omkar04.duckdns.org/channel/Zee_Marathi_HD
+http://omkar04.duckdns.org:5000channel/Zee_Marathi_HD
 #EXTINF:-1 tvg-name="Zee Marathi HD 2" group-title="Marathi Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",Zee Marathi HD 2
 https://xfireflix.my.id/Op.m3u8/?id=380816&e=.m3u8
 #EXT-X-ENDLIST
