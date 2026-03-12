@@ -29,7 +29,7 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgt
 #EXTINF:-1 tvg-name="ABP News" group-title="Hindi News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ABP_News_logo.svg/330px-ABP_News_logo.svg.png",ABP News
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master_720.m3u8
 #EXTINF:-1 tvg-name="Zee Marathi HD" group-title="Marathi Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",Zee Marathi HD
-http://omkar04.duckdns.org:5000/channel/Zee_Marathi_HD
+http://192.168.0.100:8888/proxy/mpd/manifest.m3u8?d=https%3A%2F%2Fjiotvpllive.cdn.jio.com%2Fbpk-tv%2FZeeMarathiHD_MOB%2FWDVLive%2Findex.mpd%3F__hdnea__%3Dst%3D1773282777~exp%3D1773369177~acl%3D%2F*~hmac%3Db5d701bc676c5d372e863eb7145716423859372e84765fa9447965c840e00239%26xxx%3D%257Ccookie%3D__hdnea__%3Dst%3D1773282777~exp%3D1773369177~acl%3D%2F*~hmac%3Db5d701bc676c5d372e863eb7145716423859372e84765fa9447965c840e00239&key_id=f17a37b9a68555be8b0164478c832f93&key=352fa691d2c9d578e1b39e9993c4ffd2&h_user-agent=plaYtv%2F7.1.3%20(Linux%3BAndroid%2013)%20ygx%2F824.1%20ExoPlayerLib%2F824.0&h_cookie=__hdnea__=st=1773282777~exp=1773369177~acl=/*~hmac=b5d701bc676c5d372e863eb7145716423859372e84765fa9447965c840e00239&max_res=true
 #EXTINF:-1 tvg-name="Zee Marathi HD 2" group-title="Marathi Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",Zee Marathi HD 2
 http://iptvcasomsapi.jprdigital.in/x-media/C0508/master.m3u8
 #EXTINF:-1 tvg-name="Zee Marathi SD" group-title="Marathi Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi.png",Zee Marathi SD
