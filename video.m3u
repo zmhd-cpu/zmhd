@@ -21,7 +21,7 @@ https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-name="CNBC Awaaz" group-title="Business News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/CNBC_Awaaz_logo.png/701px-CNBC_Awaaz_logo.png?20210330032329",CNBC Awaaz
 https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-name="Republic Bharat" group-title="Hindi News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Republic_Bharat_logo.svg",Republic Bharat
-https://csm-e-cesharedlsgsin2live-87593164.bln1.yospace.com/csm/extlive/runntvprd01,news-hls.m3u8?yo.t.pf=6000&yo.t.pr=3000&yo.pdt=true&yo.eb.fb=aHR0cHM6Ly92Zy1yZXB1YmxpY3R2bGl2ZS5ha2FtYWl6ZWQubmV0L3B0bnItVGVzdF9SX0JoYXJhdC90aXRsZS1SZXB1YmxpY19CaGFyYXRfTm9uX1NTQUkvdjEvdmdsaXZlLXNrLTE0Mjc2Mi9tYWluXzQubTN1OA==&yo.oh=Y3NtLWUtcnVubnR2cHJkbGl2ZS1lYi5ydW5uYWRzLnJ1bm4ubWVkaWE=
+https://csm-e-cesharedlsgsin2live-87593164.bln1.yospace.com/csm/extlive/runntvprd01,news-hls.m3u8
 #EXTINF:-1 tvg-name="Aaj Tak" group-title="Hindi News" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/images/author/aajtak-logo.jpg",Aaj Tak
 https://aajtaklive-amd.akamaized.net/hls/live/2014416-b/aajtak/aajtaklive/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-name="TV9 Bharatvarsh" group-title="Hindi News" tvg-logo="https://static.tv9hindi.com/images/TV9-Hindi-Logo.svg",TV9 Bharatvarsh
