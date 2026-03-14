@@ -42,6 +42,4 @@ http://omkar04.duckdns.org:5001/proxy?url=https%3A//live-pull.aisports.mobi/movi
 http://omkar04.duckdns.org:5001/proxy?url=https%3A//live-pull.aisports.mobi/moviebox/device02/playlist.m3u8
 #EXTINF:-1 tvg-name="DD Sports" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/DD_Sports_logo.svg/250px-DD_Sports_logo.svg.png",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-#EXTINF:-1 tvg-name="Star Sports 1 HD" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Star_Sports_1_HD.png",Star Sports 1 HD
-http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8
 #EXT-X-ENDLIST
