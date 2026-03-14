@@ -17,9 +17,9 @@ https://cdn-3.pishow.tv/live/437/master.m3u8
 #EXTINF:-1 tvg-name="Jai Maharashtra" group-title="Marathi News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Jai_Maharashtra.jpeg/250px-Jai_Maharashtra.jpeg",Jai Maharashtra
 https://cdn-3.pishow.tv/live/1465/master.m3u8
 #EXTINF:-1 tvg-name="CNBC TV 18" group-title="Business News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/CNBC_TV18.png",CNBC TV 18
-https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8?__hdnea__=st=1768718852~exp=1768805252~acl=/*~hmac=b923153019784124682c15a1f219c8f4c249dfc1cbe9635f9e2336bb458a950f
+https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-name="CNBC Awaaz" group-title="Business News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/CNBC_Awaaz_logo.png/701px-CNBC_Awaaz_logo.png?20210330032329",CNBC Awaaz
-https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/index.m3u8?__hdnea__=st=1769582867~exp=1769669267~acl=/*~hmac=8ef2f0669b35069945a86706ad80fcd425f68f215b378f1675fd794c00f3cb60
+https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-name="Republic Bharat" group-title="Hindi News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Republic_Bharat_logo.svg",Republic Bharat
 https://csm-e-cesharedlsgsin2live-87593164.bln1.yospace.com/csm/extlive/runntvprd01,news-hls.m3u8?yo.t.pf=6000&yo.t.pr=3000&yo.pdt=true&yo.eb.fb=aHR0cHM6Ly92Zy1yZXB1YmxpY3R2bGl2ZS5ha2FtYWl6ZWQubmV0L3B0bnItVGVzdF9SX0JoYXJhdC90aXRsZS1SZXB1YmxpY19CaGFyYXRfTm9uX1NTQUkvdjEvdmdsaXZlLXNrLTE0Mjc2Mi9tYWluXzQubTN1OA==&yo.oh=Y3NtLWUtcnVubnR2cHJkbGl2ZS1lYi5ydW5uYWRzLnJ1bm4ubWVkaWE=
 #EXTINF:-1 tvg-name="Aaj Tak" group-title="Hindi News" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/images/author/aajtak-logo.jpg",Aaj Tak
