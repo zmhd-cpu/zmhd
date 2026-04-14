@@ -13,13 +13,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Fetch remote playlist
         env:
           SONY_URL: ${{ secrets.SONY_URL }}
         run: |
-          curl -L -s -A "okhttp/4.12.0" -H "accept-encoding: gzip" -o sony.m3u $SONY_URL
+          curl -L -s -A --compressed "okhttp/4.12.0" -o sony.m3u $SONY_URL
 
       - name: Merge playlists
         run: |
