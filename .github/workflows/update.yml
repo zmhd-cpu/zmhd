@@ -42,7 +42,7 @@ jobs:
           # Only commit and push if the files actually changed
           if [ -n "$(git status --porcelain)" ]; then
             git commit -m "Updated combined playlist"
-            git push "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" HEAD:main
+            git push --force "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" HEAD:main
           else
             echo "No changes detected, skipping push."
           fi
