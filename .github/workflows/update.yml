@@ -1,0 +1,33 @@
+name: Update IPTV Playlist
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  merge-playlists:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Fetch remote playlist
+        env:
+          SONY_URL: ${{ secrets.SONY_URL }}
+        run: |
+          curl -L -s -A "okhttp/4.12.0" -H "accept-encoding: gzip" -o sony.m3u $SONY_URL
+
+      - name: Merge playlists
+        run: |
+          echo "#EXTM3U" > combined.m3u
+          sed '1{/^#EXTM3U/d;}' video.m3u >> combined.m3u
+          sed '1{/^#EXTM3U/d;}' sony.m3u >> combined.m3u
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add sony.m3u combined.m3u
+          # Commit only if there are changes to avoid workflow errors
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Updated combined playlist" && git push)
