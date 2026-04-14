@@ -29,7 +29,7 @@ jobs:
           if [ -f video.m3u ]; then
             sed '1{/^#EXTM3U/d;}' video.m3u >> combined.m3u
           fi
-          sed '1{/^#EXTM3U/d;}' sony.m3u >> combined.m3u
+          sed '/^#EXTM3U|^# Pushed|^# Telegram/d' sony.m3u >> combined.m3u
 
       - name: Commit and Push
         env:
