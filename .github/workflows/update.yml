@@ -24,12 +24,11 @@ jobs:
 
       - name: Merge playlists
         run: |
-          echo "#EXTM3U" > combined.m3u
-          # Ensure video.m3u exists in your repo before running this!
-          if [ -f video.m3u ]; then
-            sed '1{/^#EXTM3U/d;}' video.m3u >> combined.m3u
+          echo "#EXTM3U" > video.m3u
+          if [ -f my-list.m3u ]; then
+            sed '1{/^#EXTM3U/d;}' my-list.m3u >> video.m3u
           fi
-          sed '/^#EXTM3U|^# Pushed|^# Telegram/d' sony.m3u >> combined.m3u
+          sed '/#EXTM3U|cloudplay|telegram/Id' sony.m3u >> video.m3u
 
       - name: Commit and Push
         env:
@@ -37,7 +36,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "github-actions[bot]"
-          git add sony.m3u combined.m3u
+          git add sony.m3u video.m3u
           
           # Only commit and push if the files actually changed
           if [ -n "$(git status --porcelain)" ]; then
