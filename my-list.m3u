@@ -47,9 +47,14 @@ https://datahub11.com:443/live/Jen12345/Jen54321/5869.ts
 #EXTINF:-1 tvg-name="Zee Marathi HD" group-title="Marathi Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeemarathi/list/1920x1080list63a3bd62dcbd42478d7ef28b66d31c3f.jpg",Zee Marathi HD 5
 https://datahub11.com:443/live/Jen12345/Jen54321/85694.ts
 
-
 #EXTINF:-1 tvg-name="DD Sports" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/DD_Sports_logo.svg/250px-DD_Sports_logo.svg.png",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IPL Marathi Match 1 4k" tvg-logo="" group-title="Sports",IPL Marathi Match 1 4k
+https://datahub11.com:443/live/Jen12345/Jen54321/705157.ts
+#EXTINF:-1 tvg-id="" tvg-name="IPL English Match 1 4k" tvg-logo="" group-title="Sports",IPL English Match 1 4k
+https://datahub11.com:443/live/Jen12345/Jen54321/705142.ts
+#EXTINF:-1 tvg-id="" tvg-name="IPL English Match 2 4k" tvg-logo="" group-title="Sports",IPL English Match 2 4k
+https://datahub11.com:443/live/Jen12345/Jen54321/705143.ts
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="IN: STAR SPORTS 1 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Sports",IN: STAR SPORTS 1 (4K).
 https://datahub11.com:443/live/Jen12345/Jen54321/98864.ts
 #EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="IN: STAR SPORTS 2 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Sports",IN: STAR SPORTS 2 (4K).
