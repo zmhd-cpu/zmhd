@@ -73,7 +73,7 @@ https://datahub11.com:443/live/Jen12345/Jen54321/9038.ts
 https://datahub11.com:443/live/Jen12345/Jen54321/128231.ts
 #EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/YRF_MUSIC/YRF-Music-Channel-Logo_200x400.jpg" group-title="Music",YRF Music
 https://amg00223-unisys-amg00223c2-lg-in-2045.playouts.now.amagi.tv/playlist/amg00223-sevencolorsbroadcastingprivatelimited-yfrmusic-lgin/playlist.m3u8
-#EXTINF:-1 tvg-id="63651" tvg-name="Music India" tvg-logo="",Music India
+#EXTINF:-1 tvg-id="63651" tvg-name="Music India" group-title="Music" tvg-logo="",Music India
 https://amg00416-amg00416c5-samsung-in-3259.playouts.now.amagi.tv/playlist/amg00416-travelxp-musicindia-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/B4U/B4U_MUSIC/b4u_music_logo_resized_400x200.png" group-title="Music",B4U Music
 https://amg00877-b4unew-amg00877c3-lg-in-5261.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4umusic-lgin/playlist.m3u8
