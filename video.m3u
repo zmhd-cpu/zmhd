@@ -49,6 +49,8 @@ https://datahub11.com:443/live/Jen12345/Jen54321/85694.ts
 
 #EXTINF:-1 tvg-name="DD Sports" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/DD_Sports_logo.svg/250px-DD_Sports_logo.svg.png",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IPL English Match 1" tvg-logo="" group-title="Sports",IPL English Match 1
+https://datahub11.com:443/live/Jen12345/Jen54321/705132.ts
 #EXTINF:-1 tvg-id="" tvg-name="IPL Marathi Match 1 4k" tvg-logo="https://secure-media.hotstar.com/web-assets/prod/jhs_favicon.ico" group-title="Sports",IPL Marathi Match 1 4k
 https://datahub11.com:443/live/Jen12345/Jen54321/705157.ts
 #EXTINF:-1 tvg-id="" tvg-name="IPL English Match 1 4k" tvg-logo="https://secure-media.hotstar.com/web-assets/prod/jhs_favicon.ico" group-title="Sports",IPL English Match 1 4k
@@ -67,6 +69,8 @@ https://datahub11.com:443/live/Jen12345/Jen54321/5040.ts
 https://datahub11.com:443/live/Jen12345/Jen54321/1856.ts
 #EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="CRIC || SKY SPORTS CRIC ᴴᴰ" tvg-logo="http://greenpa1.com/skycricket.png" group-title="Sports",CRIC || SKY SPORTS CRIC ᴴᴰ
 https://datahub11.com:443/live/Jen12345/Jen54321/12.ts
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK || SKY SPORTS MAIN EVENT" tvg-logo="https://i.ibb.co/hFqWZn8V/sky-mainevent.png" group-title="Sports",UK || SKY SPORTS MAIN EVENT
+https://datahub11.com:443/live/Jen12345/Jen54321/122409.ts
 
 
 #EXTINF:-1 tvg-id="suryamusic.in" tvg-name="MY: SURYA MUSIC" tvg-logo="http://stariptv.fun/logos/Sura_Music.png" group-title="Music",SURYA MUSIC
