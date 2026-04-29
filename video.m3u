@@ -50,7 +50,7 @@ https://datahub11.com:443/live/Jen12345/Jen54321/85694.ts
 #EXTINF:-1 tvg-name="DD Sports" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/DD_Sports_logo.svg/250px-DD_Sports_logo.svg.png",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IPL English Match 1" tvg-logo="" group-title="Sports",IPL English Match 1
-https://datahub11.com:443/live/Jen12345/Jen54321/705132.ts
+http://192.168.0.100:5000/stream
 #EXTINF:-1 tvg-id="" tvg-name="IPL Marathi Match 1 4k" tvg-logo="https://secure-media.hotstar.com/web-assets/prod/jhs_favicon.ico" group-title="Sports",IPL Marathi Match 1 4k
 https://datahub11.com:443/live/Jen12345/Jen54321/705157.ts
 #EXTINF:-1 tvg-id="" tvg-name="IPL English Match 1 4k" tvg-logo="https://secure-media.hotstar.com/web-assets/prod/jhs_favicon.ico" group-title="Sports",IPL English Match 1 4k
