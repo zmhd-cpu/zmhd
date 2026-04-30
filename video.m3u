@@ -24,6 +24,8 @@ https://cdn-3.pishow.tv/live/1465/master.m3u8
 https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-name="CNBC Awaaz" group-title="Business News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/CNBC_Awaaz_logo.png/701px-CNBC_Awaaz_logo.png?20210330032329",CNBC Awaaz
 https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-name="NDTV Profit" group-title="Business News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/NDTV_Profit.svg/250px-NDTV_Profit.svg.png",NDTV Profit
+https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
 
 
 #EXTINF:-1 tvg-name="Republic Bharat" group-title="Hindi News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Republic_Bharat_logo.svg",Republic Bharat
@@ -50,6 +52,8 @@ https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
 https://feeds.intoday.in/hltapps/api/master.m3u8
 #EXTINF:-1 tvg-name="Republic TV" group-title="English News" tvg-logo="https://static.republicworld.com/assets/images/republic-logo2.svg",Republic TV
 https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8
+#EXTINF:-1 tvg-name="WION News" group-title="English News" tvg-logo="https://cdn.wionews.com/images/WION-logo-1200.png",WION News
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 
 
 
