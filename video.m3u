@@ -39,7 +39,7 @@ https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master_720.m
 #EXTINF:-1 tvg-name="Zee Marathi HD" group-title="Marathi Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeemarathi/list/1920x1080list63a3bd62dcbd42478d7ef28b66d31c3f.jpg",Zee Marathi HD
 http://omkar04.duckdns.org:5000/channel/zee-marathi-hd
 #EXTINF:-1 tvg-name="Zee Marathi HD" group-title="Marathi Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeemarathi/list/1920x1080list63a3bd62dcbd42478d7ef28b66d31c3f.jpg",Zee Marathi HD 2
-http://192.168.0.101:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Franapkbd.site%2FRANAPK33y%2FTVD%2Fplay.php%3Fid%3D373433&resolution=1080p&start_offset=-10&api_password=1
+http://192.168.0.101:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Franapkbd.site%2FRANAPK33y%2FTVD%2Fplay.php%3Fid%3D373433&resolution=1080p&start_offset=-15&api_password=1
 
 #EXTINF:-1 tvg-name="DD Sports" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/DD_Sports_logo.svg/250px-DD_Sports_logo.svg.png",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
