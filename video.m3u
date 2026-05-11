@@ -68,15 +68,15 @@ http://premimum.online/live/jen12345/jen54321/98903.ts
 #EXTINF:-1 tvg-name="DD Sports" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/DD_Sports_logo.svg/250px-DD_Sports_logo.svg.png",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="English Match 1" tvg-logo="" group-title="Sports",English Match 1
-https://premimum.online:443/live/Jen12345/Jen54321/98864.ts
+http://premimum.online:443/live/jen12345/jen54321/98864.ts
 #EXTINF:-1 tvg-id="willow.hd" tvg-name="Willow Live" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Willow_HD_2023.svg" group-title="Sports",Willow HD
-https://premimum.online:443/live/Jen12345/Jen54321/5040.ts
+http://premimum.online:443/live/jen12345/jen54321/5040.ts
 #EXTINF:-1 tvg-id="willow.hd" tvg-name="Willow Live 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Willow_HD_2023.svg" group-title="Sports",Willow 2 HD
-https://premimum.online:443/live/Jen12345/Jen54321/23943.ts
+http://premimum.online:443/live/jen12345/jen54321/23943.ts
 #EXTINF:-1 tvg-id="foxsports501hd.au" tvg-name="FOX CRIC 501 ᴴᴰ" tvg-logo="http://greenpa1.com/fox.png" group-title="Sports",FOX CRIC 501 ᴴᴰ
-https://premimum.online:443/live/Jen12345/Jen54321/1856.ts
+http://premimum.online:443/live/jen12345/jen54321/1856.ts
 #EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="SKY SPORTS CRIC ᴴᴰ" tvg-logo="http://greenpa1.com/skycricket.png" group-title="Sports",SKY SPORTS CRIC ᴴᴰ
-https://premimum.online:443/live/Jen12345/Jen54321/23566.ts
+http://premimum.online:443/live/jen12345/jen54321/23566.ts
 
 
 #EXTINF:-1 tvg-id="suryamusic.in" tvg-name="MY: SURYA MUSIC" tvg-logo="http://stariptv.fun/logos/Sura_Music.png" group-title="Music",SURYA MUSIC
