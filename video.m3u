@@ -61,20 +61,22 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 http://omkar04.duckdns.org:5000/channel/zee-marathi-hd
 #EXTINF:-1 tvg-name="Zee Marathi HD" group-title="Marathi Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeemarathi/list/1920x1080list63a3bd62dcbd42478d7ef28b66d31c3f.jpg",Zee Marathi HD 2
 http://192.168.0.101:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Franapkbd.site%2FRANAPK33n%2FTVD%2Fplay.php%3Fid%3D373433&max_res=true&start_offset=-15&api_password=1
+#EXTINF:-1 tvg-name="Zee Marathi HD" group-title="Marathi Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeemarathi/list/1920x1080list63a3bd62dcbd42478d7ef28b66d31c3f.jpg",Zee Marathi HD 3
+https://premimum.online:443/live/Jen12345/Jen54321/98903.ts
 
 
 #EXTINF:-1 tvg-name="DD Sports" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/DD_Sports_logo.svg/250px-DD_Sports_logo.svg.png",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="English Match 1" tvg-logo="" group-title="Sports",English Match 1
-http://192.168.0.101:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Franapkbd.site%2FRANAPK33y%2FTVD%2Fplay.php%3Fid%3D373206&max_res=true&start_offset=0&api_password=1
+https://premimum.online:443/live/Jen12345/Jen54321/98864.ts
 #EXTINF:-1 tvg-id="willow.hd" tvg-name="Willow Live" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Willow_HD_2023.svg" group-title="Sports",Willow HD
-http://192.168.0.101:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Franapkbd.site%2FRANAPK33y%2FTVD%2Fplay.php%3Fid%3D858677&max_res=true&start_offset=-10&api_password=1
+https://premimum.online:443/live/Jen12345/Jen54321/5040.ts
 #EXTINF:-1 tvg-id="willow.hd" tvg-name="Willow Live 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Willow_HD_2023.svg" group-title="Sports",Willow 2 HD
-http://192.168.0.101:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Franapkbd.site%2FRANAPK33y%2FTVD%2Fplay.php%3Fid%3D858676&max_res=true&start_offset=-10&api_password=1
+https://premimum.online:443/live/Jen12345/Jen54321/23943.ts
 #EXTINF:-1 tvg-id="foxsports501hd.au" tvg-name="FOX CRIC 501 ᴴᴰ" tvg-logo="http://greenpa1.com/fox.png" group-title="Sports",FOX CRIC 501 ᴴᴰ
-http://192.168.0.101:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Franapkbd.site%2FRANAPK33y%2FTVD%2Fplay.php%3Fid%3D809389&max_res=true&start_offset=-10&api_password=1
+https://premimum.online:443/live/Jen12345/Jen54321/1856.ts
 #EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="SKY SPORTS CRIC ᴴᴰ" tvg-logo="http://greenpa1.com/skycricket.png" group-title="Sports",SKY SPORTS CRIC ᴴᴰ
-http://192.168.0.101:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Franapkbd.site%2FRANAPK33y%2FTVD%2Fplay.php%3Fid%3D809390&max_res=true&start_offset=-10&api_password=1
+https://premimum.online:443/live/Jen12345/Jen54321/23566.ts
 
 
 #EXTINF:-1 tvg-id="suryamusic.in" tvg-name="MY: SURYA MUSIC" tvg-logo="http://stariptv.fun/logos/Sura_Music.png" group-title="Music",SURYA MUSIC
