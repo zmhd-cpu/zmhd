@@ -62,7 +62,7 @@ http://omkar04.duckdns.org:5000/channel/zee-marathi-hd
 #EXTINF:-1 tvg-name="Zee Marathi HD" group-title="Marathi Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeemarathi/list/1920x1080list63a3bd62dcbd42478d7ef28b66d31c3f.jpg",Zee Marathi HD 2
 http://192.168.0.101:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Franapkbd.site%2FRANAPK33n%2FTVD%2Fplay.php%3Fid%3D373433&max_res=true&start_offset=-15&api_password=1
 #EXTINF:-1 tvg-name="Zee Marathi HD" group-title="Marathi Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeemarathi/list/1920x1080list63a3bd62dcbd42478d7ef28b66d31c3f.jpg",Zee Marathi HD 3
-https://premimum.online:443/live/Jen12345/Jen54321/98903.ts
+http://premimum.online/live/jen12345/jen54321/98903.ts
 
 
 #EXTINF:-1 tvg-name="DD Sports" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/DD_Sports_logo.svg/250px-DD_Sports_logo.svg.png",DD Sports
