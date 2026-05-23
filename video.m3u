@@ -106,4 +106,6 @@ https://amg01281-amg01281c1-amgplt0173.playout.now3.amagi.tv/playlist/amg01281-a
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Kids: Hungama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/250px-Hungama_TV.svg.png" group-title="Kids",Hungama
-https://...
+http://192.168.0.101:8070/playlist.php?id=834525
+#EXTINF:-1 tvg-id="281301" tvg-name="IN - SONY YAY" tvg-logo="http://103.176.90.118/picons-dino/logos/SONY-YAY.jpg" group-title="Kids" tvg-chno="17853",SONY YAY
+http://192.168.0.101:8070/playlist.php?id=281301
