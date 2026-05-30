@@ -62,7 +62,7 @@ http://omkar04.duckdns.org:5000/channel/zee-marathi-hd
 #EXTINF:-1 tvg-name="Zee Marathi HD" group-title="Marathi Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeemarathi/list/1920x1080list63a3bd62dcbd42478d7ef28b66d31c3f.jpg",Zee Marathi HD 2
 http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/82646
 #EXTINF:-1 tvg-name="Zee Marathi HD" group-title="Marathi Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeemarathi/list/1920x1080list63a3bd62dcbd42478d7ef28b66d31c3f.jpg",Zee Marathi HD 3
-http://myflixtv.co.uk:2095/live/Eldousaa/Eldousa1/565fb2b1-0fa3-48a4-9eee-d74c92e16888.m3u8
+http://192.168.0.101:8888/proxy/mpd/manifest.m3u8?d=https%3A%2F%2Fd1g8wgjurz8via.cloudfront.net%2Fbpk-tv%2FZeemarathi%2Fdefault%2Fmanifest.mpd&key_id=2a8d6c938ea647248f7a10eedc39f097&key=7d81feb84ed84bd88fdc5ca9de3c16da&start_offset=-18&h_user-agent=plaYtv%2F7.1.5+%28Linux%3BAndroid+15%29+ExoPlayerLib%2F2.11.6&api_password=1
 #EXTINF:-1 tvg-name="Zee Marathi HD" group-title="Marathi Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeemarathi/list/1920x1080list63a3bd62dcbd42478d7ef28b66d31c3f.jpg",Zee Marathi HD 4
 http://myflixtv.co.uk:2095/live/Eldousaa/Eldousa1/bfff3d0b-7055-4e40-8c3e-1e3103b16a7c.m3u8
 #EXTINF:-1 tvg-name="Zee Marathi HD" group-title="Marathi Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeemarathi/list/1920x1080list63a3bd62dcbd42478d7ef28b66d31c3f.jpg",Zee Marathi HD 5
