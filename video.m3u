@@ -44,6 +44,7 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m
 https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8
 
 
+
 #EXTINF:-1 tvg-name="NDTV 24x7" group-title="English News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/250px-NDTV_247.svg.png",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-name="CNN News 18" group-title="English News" tvg-logo="https://www.news18.com/images/icons/news18_512x512_v1.png",CNN News 18
@@ -69,6 +70,11 @@ http://myflixtv.co.uk:2095/live/Eldousaa/Eldousa1/bfff3d0b-7055-4e40-8c3e-1e3103
 https://starshare.fans:443/live/653284131606/673224580558/98903.ts
 #EXTINF:-1 tvg-name="Zee Marathi HD" group-title="Marathi Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeemarathi/list/1920x1080list63a3bd62dcbd42478d7ef28b66d31c3f.jpg",Zee Marathi HD 6
 https://starshare.fans:443/live/jen12345/jen54321/98903.ts
+#EXTINF:-1 tvg-name="Zee Marathi HD" group-title="Marathi Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeemarathi/list/1920x1080list63a3bd62dcbd42478d7ef28b66d31c3f.jpg",Zee Marathi HD 7
+https://starshare.fans:443/live/jen12345/jen54321/5867.ts
+#EXTINF:-1 tvg-name="Zee Marathi HD" group-title="Marathi Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeemarathi/list/1920x1080list63a3bd62dcbd42478d7ef28b66d31c3f.jpg",Zee Marathi HD 8
+https://starshare.fans:443/live/jen12345/jen54321/5869.ts
+
 
 
 #EXTINF:-1 tvg-name="DD Sports" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/DD_Sports_logo.svg/250px-DD_Sports_logo.svg.png",DD Sports
