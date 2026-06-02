@@ -105,7 +105,7 @@ http://192.168.0.101:8070/playlist.php?id=807930
 
 
 #EXTINF:-1 tvg-id="suryamusic.in" tvg-name="MY: SURYA MUSIC" tvg-logo="http://stariptv.fun/logos/Sura_Music.png" group-title="Music",SURYA MUSIC
-https://datahub11.com:443/live/Jen12345/Jen54321/9038.ts
+http://datahub11.com:8080/live/Jen12345/Jen54321/9038.ts
 #EXTINF:-1 tvg-id="udayamusic.in" tvg-name="Kannada:  udaya music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Udaya-Music-Logo.jpg/240px-Udaya-Music-Logo.jpg" group-title="Music",Udaya Music
 https://datahub11.com:443/live/Jen12345/Jen54321/128231.ts
 #EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/YRF_MUSIC/YRF-Music-Channel-Logo_200x400.jpg" group-title="Music",YRF Music
