@@ -111,9 +111,9 @@ https://datahub11.com:443/live/Jen12345/Jen54321/742610.ts
 
 
 #EXTINF:-1 tvg-id="suryamusic.in" tvg-name="MY: SURYA MUSIC" tvg-logo="http://stariptv.fun/logos/Sura_Music.png" group-title="Music",SURYA MUSIC
-http://datahub11.com:8080/live/Jen12345/Jen54321/9038.ts
+http://datahub11.com:80/live/Jen12345/Jen54321/9038.ts
 #EXTINF:-1 tvg-id="udayamusic.in" tvg-name="Kannada:  udaya music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Udaya-Music-Logo.jpg/240px-Udaya-Music-Logo.jpg" group-title="Music",Udaya Music
-https://datahub11.com:443/live/Jen12345/Jen54321/128231.ts
+http://datahub11.com:80/live/Jen12345/Jen54321/128231.ts
 #EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/YRF_MUSIC/YRF-Music-Channel-Logo_200x400.jpg" group-title="Music",YRF Music
 https://amg00223-unisys-amg00223c2-lg-in-2045.playouts.now.amagi.tv/playlist/amg00223-sevencolorsbroadcastingprivatelimited-yfrmusic-lgin/playlist.m3u8
 #EXTINF:-1 tvg-id="63651" tvg-name="Music India" group-title="Music" tvg-logo="",Music India
