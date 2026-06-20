@@ -108,6 +108,8 @@ http://192.168.0.101:8070/playlist.php?id=807930
 http://datahub11.com:8080/live/Jen12345/Jen54321/741567.ts
 #EXTINF:-1 tvg-id="" tvg-name="DE | Fusball TV 1 World Cup 2026 [HD]" tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="FIFA World Cup 2026",DE | Fusball TV 1 World Cup 2026 [HD]
 http://datahub11.com:8080/live/Jen12345/Jen54321/742610.ts
+#EXTINF:-1 tvg-id="" tvg-name="Unite8 Sports 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Screenshot_2026-06-09_233511.png" group-title="FIFA World Cup 2026",Unite8 Sports 1 HD
+http://xott.live:8080/Galaxy1306/121306/444332
 
 
 
