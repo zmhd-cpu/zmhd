@@ -76,8 +76,6 @@ http://fastshare1.com:8080/live/jen12345/jen54321/5867.ts
 http://fastshare1.com:8080/live/jen12345/jen54321/5869.ts
 #EXTINF:-1 tvg-id="" tvg-name="IN-MAR | ZEE MARATHI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Marathi.png" group-title="Marathi Entertainment",IN-MAR | ZEE MARATHI
 http://xott.live:8080/Galaxy1306/121306/383033
-#EXTINF:-1 tvg-id="" tvg-name="IN-MAR | ZEE MARATHI HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Marathi.png" group-title="Marathi Entertainment",IN-MAR | ZEE MARATHI HD
-http://xott.live:8080/Galaxy1306/121306/380816
 
 
 
@@ -107,25 +105,25 @@ http://192.168.0.101:8070/playlist.php?id=807930
 #EXTINF:-1 tvg-id="" tvg-name="Unite8 Sports 1 HD" tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="FIFA World Cup 2026",Unite8 Sports 1 HD
 http://datahub11.com:8080/live/Jen12345/Jen54321/741567.ts
 #EXTINF:-1 tvg-id="" tvg-name="DE | Fusball TV 1 World Cup 2026 [HD]" tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="FIFA World Cup 2026",DE | Fusball TV 1 World Cup 2026 [HD]
-http://datahub11.com:8080/live/Jen12345/Jen54321/742610.ts
+http://fastshare1.com:8080/live/Jen12345/Jen54321/742610.ts
 #EXTINF:-1 tvg-id="" tvg-name="Unite8 Sports 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Screenshot_2026-06-09_233511.png" group-title="FIFA World Cup 2026",Unite8 Sports 1 HD
-http://xott.live:8080/Galaxy1306/121306/444332
+http://fastshare1.com:8080/live/Jen12345/Jen54321/741567.ts
 
 
 
 
 #EXTINF:-1 tvg-id="suryamusic.in" tvg-name="MY: SURYA MUSIC" tvg-logo="http://stariptv.fun/logos/Sura_Music.png" group-title="Music",SURYA MUSIC
-http://datahub11.com:80/live/Jen12345/Jen54321/9038.ts
+http://fastshare1.com:80/live/Jen12345/Jen54321/9038.ts
 #EXTINF:-1 tvg-id="udayamusic.in" tvg-name="Kannada:  udaya music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Udaya-Music-Logo.jpg/240px-Udaya-Music-Logo.jpg" group-title="Music",Udaya Music
-http://datahub11.com:80/live/Jen12345/Jen54321/128231.ts
+http://fastshare1.com:80/live/Jen12345/Jen54321/128231.ts
 #EXTINF:-1 tvg-id="" tvg-name="MY SUN Music" tvg-logo="" group-title="Music",SUN Music
-http://datahub11.com:8080/live/Jen12345/Jen54321/143002.ts
+http://fastshare1.com:8080/live/Jen12345/Jen54321/143002.ts
 #EXTINF:-1 tvg-id="geminimusic.in" tvg-name="Telugu: GEMINI MUSIC (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Music",Telugu: GEMINI MUSIC
-http://datahub11.com:8080/live/Jen12345/Jen54321/23796.ts
+http://fastshare1.com:8080/live/Jen12345/Jen54321/23796.ts
 #EXTINF:-1 tvg-id="rajmusixmalayalam.in" tvg-name="MY: Raj Music Malayalam" tvg-logo="https://www.lyngsat.com/logo/tv/rr/raj-musix-malayalam-in.png" group-title="Music",MY: Raj Music Malayalam
-http://datahub11.com:8080/live/Jen12345/Jen54321/245.ts
+http://fastshare1.com:8080/live/Jen12345/Jen54321/245.ts
 #EXTINF:-1 tvg-id="ts840" tvg-name="TELUGU: Star Maa Music" tvg-logo="" group-title="Music",TELUGU: Star Maa Music
-http://datahub11.com:8080/live/Jen12345/Jen54321/57772.ts
+http://fastshare1.com:8080/live/Jen12345/Jen54321/57772.ts
 #EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/YRF_MUSIC/YRF-Music-Channel-Logo_200x400.jpg" group-title="Music",YRF Music
 https://amg00223-unisys-amg00223c2-lg-in-2045.playouts.now.amagi.tv/playlist/amg00223-sevencolorsbroadcastingprivatelimited-yfrmusic-lgin/playlist.m3u8
 #EXTINF:-1 tvg-id="63651" tvg-name="Music India" group-title="Music" tvg-logo="",Music India
